@@ -6,11 +6,12 @@
 
 # Front-End
 
-- **Front-End - Hosted link:**
+- **Front-End - Hosted link:** : https://fe-mentor-qr-code.netlify.app/
 
 # Description
 
-This is a challenge on Frontend mentor in which I am tasked to convert a design into code. The Link for this challenge is: https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H
+This is a challenge on Frontend mentor in which I am tasked to convert a design into code. The Link for this challenge is:
+https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H
 
 This app was developed in react and used Sass to style.
 
@@ -21,7 +22,7 @@ This app was developed in react and used Sass to style.
 - In your teminal:
 
 ```
-$ git clone
+$ git clone: https://github.com/ADitta/fe-1-qr-challenge
 ```
 
 ## Install dependencies:
